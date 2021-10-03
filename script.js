@@ -18,6 +18,7 @@ const database = [
     grock: false,
     cyc: false,
     shopee: false,
+    cina: false,
   },
   {
     nama: 'kimbaw',
@@ -28,6 +29,7 @@ const database = [
     grock: false,
     cyc: false,
     shopee: false,
+    cina: false,
   },
   {
     nama: 'eki',
@@ -38,6 +40,7 @@ const database = [
     grock: false,
     cyc: false,
     shopee: false,
+    cina: false,
   },
   {
     nama: 'ocol',
@@ -48,6 +51,7 @@ const database = [
     grock: true,
     cyc: false,
     shopee: false,
+    cina: false,
   },
   {
     nama: 'biyu',
@@ -58,6 +62,7 @@ const database = [
     grock: false,
     cyc: true,
     shopee: false,
+    cina: false,
   },
   {
     nama: 'alip',
@@ -68,6 +73,7 @@ const database = [
     grock: false,
     cyc: false,
     shopee: true,
+    cina: false,
   },
   {
     nama: 'epri',
